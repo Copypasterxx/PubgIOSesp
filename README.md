@@ -40,7 +40,7 @@
 <h3>Login:</h3>
 
 <ul>
-  <li>Key : <span style="color:pink">`qCWLGwNRbfs0zdxo`</span> </li>
+  <li>Key : <span style="color:pink">qCWLGwNRbfs0zdxo</span> </li>
   <li> Copy Above key and Paste in game when Prompt</li>
   </ul>
 
